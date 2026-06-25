@@ -153,7 +153,7 @@ if ($conn->connect_error == null) {
 
     <div class="tarjeta">
         <div class="cabecera">
-            <img src="foto.png" alt="Foto de Rocío">
+            <img src="https://github.com/rociojota/TPF-Virtualizacion-JalufRocio/blob/main/foto.png?raw=true" alt="Foto de Rocío">
             <h1>Blog personal Rocío Jaluf</h1>
         </div>
         
